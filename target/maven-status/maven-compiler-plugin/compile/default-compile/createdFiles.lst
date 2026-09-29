@@ -1,5 +1,0 @@
-com\foodapp\controller\LogoutServlet.class
-com\foodapp\dao\UserDAO.class
-com\foodapp\model\User.class
-com\foodapp\controller\LoginServlet.class
-com\foodapp\util\DBConnection.class
